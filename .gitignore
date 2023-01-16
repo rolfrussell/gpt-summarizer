@@ -1,3 +1,5 @@
 openaiapikey.txt
-gpt3_logs/*
-!gpt3_logs/.gitkeep
+logs/*
+!logs/.gitkeep
+transcripts/*
+!transcripts/.gitkeep
